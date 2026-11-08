@@ -1,6 +1,6 @@
 # Deshifrator — Desktop Application Documentation
 
-**Published documentation:** https://ekatmoz88-alt.github.io/deshifrator-docs/
+**Published documentation:** https://ekatmoz88-alt.github.io/deshifrator-docs-public/
 
 Public technical documentation for the historical Deshifrator desktop application. The materials are based on available project descriptions and selected source-code excerpts; they are not a complete specification or a full source-code audit.
 
