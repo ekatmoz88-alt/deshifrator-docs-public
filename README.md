@@ -6,6 +6,8 @@ Public technical documentation for the historical Deshifrator desktop applicatio
 
 ## Documentation
 
+- [Program description — АРМ «Дешифратор»](docs/program-description.md) — purpose, documented functional areas, and the limitations caused by unavailable classified dependency documentation.
+
 - [Architecture and components](docs/architecture.md)
 - [Application suite review: ModuleMobile, ModuleStationary, Printer / PassportPaint](docs/application-suite-review.md)
 - [SQLite data-access layer review](docs/data-access-review.md)
