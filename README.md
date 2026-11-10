@@ -22,9 +22,7 @@ The repository includes selected C# files for the SQLite data-access layer in [s
 
 ## Architecture boundary
 
-This repository documents the historical **АРМ «Дешифратор»** application suite (ModuleMobile, ModuleStationary, and Printer / PassportPaint). It is a separate research track from the independently specified **АРМ «Дискриптор»**. Similar words such as “mobile station” and “stationary station” do not establish that the two systems are the same product or share components.
-
-ПОСС, ПОМС, ПОШ ВБД, and the Oracle GLOBAL11 demo data model are not treated as components of the Deshifrator application in this repository. No relationship between the Oracle model and this WPF application suite is established by the available evidence.
+**Project identity:** АРМ «Дешифратор» is the official project name. The earlier names «Дискриптор» and «Дешифратор» refer to the same project, not two separate products. The companion repository [descriptor-arm-spec](https://github.com/ekatmoz88-alt/descriptor-arm-spec) contains the project-level specification for ПОСС, ПОМС and ПОШ ВБД; this repository contains source-based analysis of selected ModuleMobile, ModuleStationary, Common, DbStationary and Printer / PassportPaint excerpts. Specification statements and source-code findings are kept separate by evidence level. The Oracle GLOBAL11 demo data model remains a separate portfolio project.
 
 ## Technology context
 
